@@ -1,6 +1,7 @@
-# Hello there! 👋 I'm Carie
+# Hello there! 👋 
 
-Welcome to my GitHub profile! I'm a dedicated and aspiring student with a strong interest in data science and front-end development. Here's a bit about me:
+Welcome to my GitHub profile! 
+I'm Carie, a dedicated and enthusiastic student with an unwavering passion for the realms of data science and front-end development. Here's a glimpse into who I am:
 
 ## About Me
 
