@@ -5,7 +5,9 @@ I'm Carie, a dedicated and enthusiastic student with an unwavering passion for t
 
 ## About Me
 
-- 🔭 I'm currently engaged as an Online Shop Manager and Co-owner at Zarathelle PH.
+- 🔭 I currently hold significant positions as:
+  - Online Shop Manager and Co-owner at Zarathelle PH.
+  - Marketing Director at Science Forum on Career Advancement and Skills Development (SFCASD), a non-profit organization dedicated to making a positive impact.
 - 🌱 I'm pursuing a Bachelor of Science in Information Technology to further hone my skills.
 - 📫 You can reach out to me via [Email](mailto:carolinejan938@gmail.com).
 - 😄 Pronouns: She/Her
