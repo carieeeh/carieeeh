@@ -1,38 +1,32 @@
-# Hola! 👋 I'm Carie!
+# Hello there! 👋 I'm Carie
 
-Welcome to my GitHub profile! I'm a passionate and hardworking student who aspires to become a data scientist/analyst or a frontend developer.
-Here's a bit about me:
+Welcome to my GitHub profile! I'm a dedicated and aspiring student with a strong interest in data science and front-end development. Here's a bit about me:
 
 ## About Me
 
-- 🔭 I’m currently working on Zarathelle PH as an online shop manager and co-owner.
-- 🌱 I’m currently studing Bachelor of Science in Information Technology.
-- 📫 How to reach me: ![image](https://github.com/carieeeh/carieeeh/assets/118446111/d198cbfd-3cc9-461f-9877-1395f7815d9f)
-
+- 🔭 I'm currently engaged as an Online Shop Manager and Co-owner at Zarathelle PH.
+- 🌱 I'm pursuing a Bachelor of Science in Information Technology to further hone my skills.
+- 📫 You can reach out to me via [Email](mailto:carolinejan938@gmail.com).
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love organizing things and learn anything about data science.
+- ⚡ Fun fact: I have a passion for organization and a deep love for all things data science.
 
-
-Feel free to explore my repositories to see some projects I've been working on. 
+Feel free to explore my repositories to discover some of the projects I've been diligently working on.
 
 ## Projects
 
-Here are a few of my notable projects:
+Here are a few of my noteworthy projects:
 
-- [Zarathelle Analysis]([Link to Project 1](https://github.com/carieeeh/zarathelle-analysis)): [This is a repository for Zarathelle Resin and Crafts Product and Customer Data Analysis from July 2021 to December 2021]
-- [Project 2 Name](Link to Project 2): [Short Project Description]
-- [Project 3 Name](Link to Project 3): [Short Project Description]
-
-You can find more projects and details in my [Portfolio](Link to Your Portfolio if applicable).
+- [Zarathelle Analysis](https://github.com/carieeeh/zarathelle-analysis): This repository contains an in-depth analysis of Zarathelle Resin and Crafts Product and Customer data from July 2021 to December 2021.
+- [CRUD App Inventory System](https://github.com/carieeeh/CRUD-App-Inventory-System): A comprehensive CRUD Application for the Inventory System of Zarathelle PH, developed using React.
+- [Little Lemon App](https://github.com/carieeeh/LittleLemon): A React Native application designed for Little Lemon Restaurant.
 
 ## Let's Connect
 
-I'm always interested in connecting with fellow developers, designers, or anyone passionate about [Your Interests]. Don't hesitate to reach out:
+I'm always eager to connect with fellow developers, designers, or anyone passionate about technology and its applications. Feel free to reach out:
 
-- LinkedIn: [Your LinkedIn Profile](Link to Your LinkedIn)
-- Twitter: [Your Twitter Profile](Link to Your Twitter)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/carol-villadelgado/): Connect with me on LinkedIn.
+- [Email](mailto:carolinejan938@gmail.com): Drop me an email if you'd like to get in touch.
 
-Feel free to explore my repositories, and if you find something interesting or have any questions or suggestions, please let me know! 🚀
+Please explore my repositories, and if you find something intriguing or have any questions or suggestions, I'd love to hear from you! 🚀
 
-Thanks for stopping by, and happy coding! 🌟
+Thank you for visiting, and happy coding! 🌟
